@@ -1,0 +1,43 @@
+header {
+height: 10vh;
+background-color: orchid;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+h1 {
+    height: 100px;
+    line-height:100px;
+}
+.container {
+height: 10vh;
+width: 48%;
+background-color: blue;
+font-size: 200%;
+color: crimson
+}
+.box2 {
+    height: 3vh;
+    width: 48%;
+    background-color: orchid;
+}
+
+.container2 {
+    height: 10vh;
+    width: 83%;
+    background-color: crimson;
+    font-size: 200%;
+    color: blue;
+}
+
+.box {
+    height: 3vh;
+    width:  83%;
+    background-color: orchid;
+    
+}
+
+body {
+background-image: url("https://www.agernic.com/uploads/css-background-image-size-fit-full-screen.jpg");
+}
+
